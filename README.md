@@ -49,7 +49,7 @@ Launch the Jupyter notebook and execute the cells sequentially:
 ```
 jupyter notebook
 ```
-Open `Binding Affinity Prediction.ipynb` and run all cells.
+Open `Binding_Affinity_Prediction.ipynb` and run all cells.
 
 ## Outputs
 
