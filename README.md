@@ -36,7 +36,7 @@ This project focuses on predicting peptide-MHC binding affinity using a deep lea
 
 ### 1. Clone the Repository
 ```
-git clone <repository_url>
+git clone <https://github.com/nargessangaranipour/BindingAffinityPrediction>
 cd <repository_directory>
 ```
 
