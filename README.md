@@ -40,22 +40,13 @@ git clone https://github.com/nargessangaranipour/BindingAffinityPrediction
 cd BindingAffinityPrediction
 ```
 
-### 2. Install Dependencies
-Create a virtual environment and install the required packages:
-```
-python -m venv env
-source env/bin/activate  # For Linux/MacOS
-env\Scripts\activate    # For Windows
-pip install -r requirements.txt
-```
-
-### 3. Prepare Data
+### 2. Prepare Data
 Ensure the dataset is located in the `data/` directory. The dataset should include:
 - A column for MHC sequences.
 - A column for peptide sequences.
 - A label column indicating binding affinity.
 
-### 4. Run the Notebook
+### 3. Run the Notebook
 Launch the Jupyter notebook and execute the cells sequentially:
 ```
 jupyter notebook
