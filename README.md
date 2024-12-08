@@ -15,8 +15,6 @@ This project focuses on predicting peptide-MHC binding affinity using a deep lea
 ## File Structure
 
 - **Notebook**: `Binding Affinity Prediction.ipynb` contains all code for the project.
-- **Data Directory**: `data/` is expected to house input CSV files.
-- **Distribution Directory**: `dist/` is used for saving models and generated files.
 
 ## Requirements
 
